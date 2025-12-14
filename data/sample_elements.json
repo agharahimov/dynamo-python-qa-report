@@ -1,0 +1,35 @@
+[
+  {
+    "ElementId": 1001,
+    "Category": "Walls",
+    "FamilyName": "Basic Wall",
+    "TypeName": "Generic - 200mm",
+    "Level": "Level 1",
+    "Mark": "W-001",
+    "FireRating": "2h",
+    "Width_mm": 200,
+    "Comments": "Core wall"
+  },
+  {
+    "ElementId": 1002,
+    "Category": "Doors",
+    "FamilyName": "Single-Flush",
+    "TypeName": "0915 x 2134mm",
+    "Level": "Level 1",
+    "Mark": "",
+    "FireRating": null,
+    "Width_mm": 915,
+    "Comments": ""
+  },
+  {
+    "ElementId": 1003,
+    "Category": "MechanicalEquipment",
+    "FamilyName": "VAV Box",
+    "TypeName": "VAV-Standard",
+    "Level": "Level 2",
+    "Mark": "ME-12",
+    "FireRating": "N/A",
+    "Width_mm": -10,
+    "Comments": "Needs review"
+  }
+]
